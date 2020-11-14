@@ -28,7 +28,7 @@
     "ref-struct": "^1.1.0",
     "rxjs": "^6.2.1",
     "shortid": "^2.2.8",
-    "typescript": "^3.2.2"
+    "typescript": "^3.9.7"
   },
   "engines": {
     "node": "<=8.11.2"
